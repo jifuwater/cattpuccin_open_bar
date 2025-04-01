@@ -1,2 +1,2 @@
 ![Cattgnome](/out.png)
-Install openbar gnome extension and import my config
+Install openbar gnome extension and import my config (openbar_setting)
